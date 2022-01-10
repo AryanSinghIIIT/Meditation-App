@@ -1,9 +1,7 @@
 # Feeling stressed? Take a mediation break for 5/15/30 Deep Breath.
 
 
-Overview of Meditation App It's a Simple Meditation Application Developed using HTML, CSS & JavaScript.
-
-The app is created by "#Aryan Singh".
+Overview of Meditation App It's a Simple Meditation Application Developed by "#Aryan Singh" using HTML, CSS & JavaScript.
 
 
 Live Demo: https://aryansinghiiit.github.io/Meditation-app/
