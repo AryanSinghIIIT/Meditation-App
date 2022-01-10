@@ -6,7 +6,7 @@ Overview of Meditation App It's a Simple Meditation Application Developed using 
 The app is created by "#Aryan Singh".
 
 
-Live Demo: https://aryansinghiiit.github.io/Weather-app/
+Live Demo: https://aryansinghiiit.github.io/Meditation-app/
 
 Show some ❤️ and ⭐ the repo if you like the design.
 
